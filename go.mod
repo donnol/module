@@ -1,1 +1,1 @@
-module jdlau.com/module
+module github.com/donnol/module

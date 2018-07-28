@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	"jdlau.com/module/a"
+	"github.com/donnol/module/a"
 )
 
 // Main 包的导出变量
